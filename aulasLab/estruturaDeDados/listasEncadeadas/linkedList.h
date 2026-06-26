@@ -17,7 +17,7 @@ int sumRecursive(Node *head);
 void search(Node *head, int target);
 // prototipo do desafio 10.2 de remocao
 void removeBeginning(Node **head);
-// prototipo do desafio 11 de remocao por valor
+// prototipo do desafio 11.2 de remocao por valor
 void removeValue(Node **head, int target);
 void removeLastOccurrence(Node **head, int target);
 
